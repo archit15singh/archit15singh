@@ -43,7 +43,6 @@
 
 ## 🛠️ Featured Projects
 
-- 🧠 [knowledge-bot](https://github.com/tarkalabs/knowledge-bot): RAG-based agent infra with planning, memory, observability
 - 🌐 [redis-observability](https://github.com/archit15singh/redis-gui): Redis monitoring UI with SCAN, editor, command sandbox — acquired by Redis Inc
 - 🛸 [agent-memory-system](https://github.com/archit15singh/agent-memory): Graph + embedding memory system for LLMs (Neo4j + Redis + FAISS)
 
