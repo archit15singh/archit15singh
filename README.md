@@ -43,16 +43,21 @@
 
 ## 🛠️ Featured Projects
 
-- 🌐 [redis-observability](https://github.com/archit15singh/redis-gui): Redis monitoring UI with SCAN, editor, command sandbox — acquired by Redis Inc
-- 🛸 [agent-memory-system](https://github.com/archit15singh/agent-memory): Graph + embedding memory system for LLMs (Neo4j + Redis + FAISS)
+* 🧠 [memoria](https://github.com/archit15singh/memoria): Long-term memory infra for agents — Redis + Neo4j + vector search with temporal + semantic context
+* 🧪 [infrasim](https://github.com/archit15singh/infrasim): Chaos simulation + fault injection platform with trace replay, SLO dashboards, and distributed failure visualizer
+* 🛰️ [synapse](https://github.com/archit15singh/synapse): Modular agent framework with controller-worker pattern, task routing, tool policies, and memory-integrated planning
+* 🧾 [cognify](https://github.com/archit15singh/cognify): Rule+LLM hybrid engine with YAML DSL, audit trails, retry-safe pipelines, and deterministic + generative reasoning fusion
+* 🧩 [spectra](https://github.com/archit15singh/spectra): Observability-as-code for microservices and agents — OpenTelemetry auto-instrumentation with latency maps and SLA views
 
 ---
 
 ## 🌱 Side Projects & Explorations
 
-- ⚙️ Building async-safe retry orchestration layer in Python  
-- 🛰️ Exploring SLURM + Nomad for agent and data job scheduling  
-- 📈 Planning trace graph UI for OpenTelemetry-based debugging  
+* 📦 Designing Chrome DevTools-style UI for real-time Kafka + Redis pipeline debugging
+* 🔁 Building a trace-aware feedback loop for agent retries and subgoal recovery
+* 📊 Benchmarking multi-agent planning across QA, RAG, and vision-grounded reasoning
+* 🧬 Early research on “Project Episteme”: decentralized agents discovering novel scientific hypotheses
+* 🔍 Prototyping GPT+tool+memory chain visualizer for auditing AI reasoning in real time
 
 ---
 
