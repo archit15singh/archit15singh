@@ -2,7 +2,7 @@
 
 ### Senior Backend Engineer | Infra & System Design @ Scale  
 *Kafka · Redis · Python · Postgres · GenAI · Distributed Systems · Observability*
-
+[whoami](https://tinyurl.com/ye7jtn7e)
 ---
 
 > I design backend systems that stay reliable at scale, adapt fast to product needs, and fail predictably.  
