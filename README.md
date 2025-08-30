@@ -48,7 +48,7 @@
 ## 🛠️ Featured Projects
 
 🧠 [memori](https://github.com/archit15singh/memori)
-Open-source, production-grade **memory substrate** for AI systems. Append-only log in Postgres, fast semantic recall with pgvector, short-term caching in Redis, and lightweight knowledge graph for provenance. Includes reflection jobs, PII redaction, and right-to-delete policies — because **memory should be infrastructure**.
+Open-source, production-grade **memory substrate** for AI systems. Append-only log in Postgres, fast semantic recall with pgvector, short-term caching in Redis, and lightweight knowledge graph for provenance. Includes reflection jobs, PII redaction, and right-to-delete policies, because **memory should be infrastructure**.
 
 ---
 
