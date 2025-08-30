@@ -1,73 +1,68 @@
 # Archit Singh
 
-### Senior Backend Engineer | Infra & System Design @ Scale  
+### Senior Backend Engineer | Infra & System Design @ Scale
+
 *Kafka · Redis · Python · Postgres · GenAI · Distributed Systems · Observability*
 
 > [whoami](https://archit15singh.github.io/posts/2022-01-01-who-am-i/)
+
 ---
 
-> I design backend systems that stay reliable at scale, adapt fast to product needs, and fail predictably.  
-> 8+ years across infra-heavy teams building telemetry pipelines, orchestrators, and LLM-backed systems under concurrency, latency, and audit constraints.
+> I build backend systems that remain **reliable at scale**, are **observable under failure**, and are optimized for **real-time detection, memory, and search**.
+> Over 8 years across infra-heavy teams, I’ve shipped telemetry pipelines, distributed orchestrators, and GenAI-backed systems under concurrency, latency, and audit constraints.
 
 ---
 
 ## 🔩 What I Build
 
-- **Distributed Cloud Applications** → Microservices with predictable scale & recoverability  
-- **Stream Processing Pipelines** → Kafka + Postgres + Redis under 10M+ event loads  
-- **Telemetry + Observability Systems** → Tracing, metrics, SLA diagnostics (Prometheus, OTel)  
-- **LLM Agent Infrastructure** → Memory-backed, tool-using multi-agent execution engines  
-- **Control Plane & Coordination** → Consensus-safe orchestration, retries, failover resilience  
+* **Distributed Cloud Applications** → predictable scale, safe concurrency, recoverable failure modes
+* **Stream Processing Pipelines** → Kafka + Redis + Postgres under **10M+ monthly events**
+* **Telemetry & Observability Systems** → OpenTelemetry, Prometheus, SLA dashboards
+* **LLM Agent Infrastructure** → memory-augmented, tool-using multi-agent systems
+* **Control Planes & Coordination** → consensus, retries, failover, eventual consistency
 
 ---
 
 ## 🧠 Core Expertise
 
-- **Distributed Systems**: queues, state machines, eventual consistency  
-- **Infra Design**: ingestion, orchestration, API contracts, failure budgets  
-- **Stream Processing**: Kafka, Redis, Celery, Prefect  
-- **Observability**: OpenTelemetry, Prometheus, Grafana, Sentry  
-- **GenAI Integration**: agent memory, structured planning, tool use  
-- **Cloud & Ops**: Docker, Kubernetes, AWS (ECS, CloudWatch), Terraform (basic)  
+* **Distributed Systems**: queues, consensus, state machines, async orchestration
+* **Infra Design**: ingestion, feature stores, detection pipelines, error budgets
+* **Memory & Search**: Redis state machines, Postgres/pgvector, vector search, explainability
+* **Observability**: tracing, metrics, SLA diagnostics, chaos/fault injection
+* **GenAI Integration**: structured planning, retrieval, evaluation pipelines
+* **Cloud & Ops**: Docker, AWS (ECS, CloudWatch, S3), Terraform, Kubernetes
 
 ---
 
 ## 🚀 Key Outcomes
 
-- Built streaming ingestion pipelines handling **10M+ events/month**  
-- Cut P95 latency by **45%** and ETL time by **30%** in clinical telemetry  
-- Reduced **cross-region failures by 35%** through retry-safe orchestration  
-- Logged **full agent memory + tool usage telemetry** for enterprise GenAI workflows  
-- Redis-based observability platform **acquired by Redis Inc (folded into RedisInsight)**
+* Designed streaming pipelines handling **10M+ events/month**
+* Reduced **cross-region failures by 35%** through retry-safe orchestration
+* Cut **ETL latency by 30%** in telemetry-heavy clinical systems
+* Built **entity-scoring detection pipelines** surfacing explainable signals for ML models
+* Logged full **agent memory + tool usage telemetry** for enterprise GenAI workflows
+* Early Redis-based observability platform → **acquired by Redis Inc (folded into RedisInsight)**
 
 ---
 
 ## 🛠️ Featured Projects
 
-* 🧠 [memoria](https://github.com/archit15singh/memoria): Long-term memory infra for agents — Redis + Neo4j + vector search with temporal + semantic context
-* 🧪 [infrasim](https://github.com/archit15singh/infrasim): Chaos simulation + fault injection platform with trace replay, SLO dashboards, and distributed failure visualizer
-* 🛰️ [synapse](https://github.com/archit15singh/synapse): Modular agent framework with controller-worker pattern, task routing, tool policies, and memory-integrated planning
-* 🧾 [cognify](https://github.com/archit15singh/cognify): Rule+LLM hybrid engine with YAML DSL, audit trails, retry-safe pipelines, and deterministic + generative reasoning fusion
-* 🧩 [spectra](https://github.com/archit15singh/spectra): Observability-as-code for microservices and agents — OpenTelemetry auto-instrumentation with latency maps and SLA views
-
----
-
-## 🌱 Side Projects & Explorations
-
-* 📦 Designing Chrome DevTools-style UI for real-time Kafka + Redis pipeline debugging
-* 🔁 Building a trace-aware feedback loop for agent retries and subgoal recovery
-* 📊 Benchmarking multi-agent planning across QA, RAG, and vision-grounded reasoning
-* 🧬 Early research on “Project Episteme”: decentralized agents discovering novel scientific hypotheses
-* 🔍 Prototyping GPT+tool+memory chain visualizer for auditing AI reasoning in real time
+🧠 [memori](https://github.com/archit15singh/memori)
+Open-source, production-grade **memory substrate** for AI systems. Append-only log in Postgres, fast semantic recall with pgvector, short-term caching in Redis, and lightweight knowledge graph for provenance. Includes reflection jobs, PII redaction, and right-to-delete policies — because **memory should be infrastructure**.
 
 ---
 
 ## 🌍 Connect with Me
 
-- 🔗 [GitHub](https://github.com/archit15singh)
-- 💼 [LinkedIn](https://www.linkedin.com/in/archit15singh/)
-- 💬 [Twitter / X](https://x.com/archit_singh15)
-- 🧠 [Stack Overflow](https://stackoverflow.com/users/6245870/archit-singh)
+* 🔗 [GitHub](https://github.com/archit15singh)
+* 💼 [LinkedIn](https://www.linkedin.com/in/archit15singh/)
+* 💬 [Twitter / X](https://x.com/archit_singh15)
+* 🧠 [Stack Overflow](https://stackoverflow.com/users/6245870/archit-singh)
 
-> Currently exploring **Senior/Staff roles** in distributed systems, observability, or cloud-native infra teams (e.g. telemetry, ingestion, real-time processing).  
-> DMs open — let’s build resilient systems.
+---
+
+> Currently exploring **Senior/Staff roles** in **AI Infrastructure, Detection & Entity Scoring, Memory/Search Systems, or Distributed Systems/Observability**.
+> Let’s build **resilient, explainable, and future-proof infra**.
+
+---
+
