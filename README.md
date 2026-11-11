@@ -10,7 +10,7 @@ Abnormal's platform operates at billion-message scale. Its [public architecture 
 
 - **[Lorevell](https://github.com/archit15singh/lorevell)** (formerly Memori): local knowledge for humans and agents. Markdown files are the source of truth; SQLite is a rebuildable search index. Existing coding agents supply the reasoning. See the repository for current source installation instructions and the [rename guide](https://github.com/archit15singh/lorevell/blob/main/docs/rebrand.md).
 - **[Luffy](https://github.com/archit15singh/luffy-pr-review-agent)**: a comment-triggered PR review agent with repository-specific memory and redacted execution traces.
-- **[SpliceForge](https://github.com/archit15singh/spliceforge)**: an AI-assisted video-editing tool built around Codex. The [evaluation harness](https://github.com/archit15singh/video-editing-agent-bench) tracks the work needed to test it.
+- **[FootagePilot](https://github.com/archit15singh/footagepilot)**: agent-driven video editing for real footage, combining speech cleanup, word-aligned cuts, Codex story planning, captions, graphics and audio mixing. See the [real-footage findings and limits](https://github.com/archit15singh/footagepilot/blob/main/docs/REAL-E2E-RESULTS.md).
 
 ### Writing and speaking
 
