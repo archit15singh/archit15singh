@@ -4,7 +4,7 @@
 
 I am a **Senior Software Engineer at [Abnormal AI](https://abnormal.ai/)**, building AI agents and detection systems for email security. My work connects detection engineering with reliable backend and agent systems. I presented **Memory is the Agent: Architecting Stateful Reasoning** at PyCon India 2025.
 
-Abnormal's platform operates at billion-message scale. Its [public architecture article on AWS](https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/) explains the layered detection approach and selective use of agents. This is company-wide context, rather than a claim that I built every part of the platform.
+Abnormal's platform operates at billion-message scale. Its [public architecture article on AWS](https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/) explains the layered detection approach and selective use of agents.
 
 ### Independent projects
 
