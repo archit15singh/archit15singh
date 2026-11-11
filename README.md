@@ -1,68 +1,23 @@
 # Archit Singh
 
-### Senior Backend Engineer | Infra & System Design @ Scale
+## I build reliable AI systems.
 
-*Kafka · Redis · Python · Postgres · GenAI · Distributed Systems · Observability*
+Senior Software Engineer at Abnormal AI. I work on memory, tool use, recovery and security, and write about what I learn from building and testing systems. I presented **Memory is the Agent: Architecting Stateful Reasoning** at PyCon India 2025.
 
-> [whoami](https://archit15singh.github.io/posts/2022-01-01-who-am-i/)
+### Selected projects
 
----
+- **[Lorevell](https://github.com/archit15singh/lorevell)** (formerly Memori): local knowledge for humans and agents. Markdown files are the source of truth; SQLite is a rebuildable search index. Existing coding agents supply the reasoning. See the repository for current source installation instructions and the [rename guide](https://github.com/archit15singh/lorevell/blob/main/docs/rebrand.md).
+- **[Luffy](https://github.com/archit15singh/luffy-pr-review-agent)**: a comment-triggered PR review agent with repository-specific memory and redacted execution traces.
+- **[SpliceForge](https://github.com/archit15singh/spliceforge)**: an AI-assisted video-editing tool built around Codex. The [evaluation harness](https://github.com/archit15singh/video-editing-agent-bench) tracks the work needed to test it.
 
-> I build backend systems that remain **reliable at scale**, are **observable under failure**, and are optimized for **real-time detection, memory, and search**.
-> Over 8 years across infra-heavy teams, I’ve shipped telemetry pipelines, distributed orchestrators, and GenAI-backed systems under concurrency, latency, and audit constraints.
+### Writing and speaking
 
----
+I investigate how agents preserve useful context, act within constraints, recover from failures and expose enough evidence to check what they did. My writing connects implementation choices with experiments and their limits.
 
-## 🔩 What I Build
+[Projects](https://archit15singh.github.io/projects/) · [Research and writing](https://archit15singh.github.io/research/) · [Talks and recording](https://archit15singh.github.io/speaking/) · [Inside the Agent on Substack](https://architsingh.substack.com/)
 
-* **Distributed Cloud Applications** → predictable scale, safe concurrency, recoverable failure modes
-* **Stream Processing Pipelines** → Kafka + Redis + Postgres under **10M+ monthly events**
-* **Telemetry & Observability Systems** → OpenTelemetry, Prometheus, SLA dashboards
-* **LLM Agent Infrastructure** → memory-augmented, tool-using multi-agent systems
-* **Control Planes & Coordination** → consensus, retries, failover, eventual consistency
+### Get in touch
 
----
+For technical talks, engineering collaborations or relevant roles: [contact.architsingh@gmail.com](mailto:contact.architsingh@gmail.com).
 
-## 🧠 Core Expertise
-
-* **Distributed Systems**: queues, consensus, state machines, async orchestration
-* **Infra Design**: ingestion, feature stores, detection pipelines, error budgets
-* **Memory & Search**: Redis state machines, Postgres/pgvector, vector search, explainability
-* **Observability**: tracing, metrics, SLA diagnostics, chaos/fault injection
-* **GenAI Integration**: structured planning, retrieval, evaluation pipelines
-* **Cloud & Ops**: Docker, AWS (ECS, CloudWatch, S3), Terraform, Kubernetes
-
----
-
-## 🚀 Key Outcomes
-
-* Designed streaming pipelines handling **10M+ events/month**
-* Reduced **cross-region failures by 35%** through retry-safe orchestration
-* Cut **ETL latency by 30%** in telemetry-heavy clinical systems
-* Built **entity-scoring detection pipelines** surfacing explainable signals for ML models
-* Logged full **agent memory + tool usage telemetry** for enterprise GenAI workflows
-* Early Redis-based observability platform → **acquired by Redis Inc (folded into RedisInsight)**
-
----
-
-## 🛠️ Featured Projects
-
-🧠 [memori](https://github.com/archit15singh/memori)
-Open-source, production-grade **memory substrate** for AI systems. Append-only log in Postgres, fast semantic recall with pgvector, short-term caching in Redis, and lightweight knowledge graph for provenance. Includes reflection jobs, PII redaction, and right-to-delete policies, because **memory should be infrastructure**.
-
----
-
-## 🌍 Connect with Me
-
-* 🔗 [GitHub](https://github.com/archit15singh)
-* 💼 [LinkedIn](https://www.linkedin.com/in/archit15singh/)
-* 💬 [Twitter / X](https://x.com/archit_singh15)
-* 🧠 [Stack Overflow](https://stackoverflow.com/users/6245870/archit-singh)
-
----
-
-> Currently exploring **Senior/Staff roles** in **AI Infrastructure, Detection & Entity Scoring, Memory/Search Systems, or Distributed Systems/Observability**.
-> Let’s build **resilient, explainable, and future-proof infra**.
-
----
-
+[Website](https://archit15singh.github.io/) · [LinkedIn](https://www.linkedin.com/in/archit15singh/) · [X](https://x.com/archit_singh15) · [Stack Overflow](https://stackoverflow.com/users/6245870/archit-singh)
